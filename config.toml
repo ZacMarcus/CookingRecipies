@@ -1,7 +1,7 @@
-baseurl = "https://zacmarcus.gitlab.io/CookingRecipies/"
+baseurl = "https://zacmarcus.github.io/CookingRecipies/"
 languageCode = "en-us"
 theme = "hugo_theme_pickles_custom"
-Title = "Foodie Diary"
+Title = "Cooking Recipes"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright notice"
 
