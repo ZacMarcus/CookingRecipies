@@ -1,4 +1,4 @@
-ame: hugo publish
+name: hugo publish
 
 on:
   push:
