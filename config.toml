@@ -1,4 +1,3 @@
-publishDir = "../zacmarcus.github.io"
 baseurl = "https://zacmarcus.github.io/CookingRecipies/"
 languageCode = "en-us"
 # https://github.com/maolonglong/hugo-simple
